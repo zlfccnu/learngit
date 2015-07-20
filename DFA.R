@@ -1,1 +1,1 @@
-hurstExponent(x,nVec)
+hurstExponent(x,nVec){}
